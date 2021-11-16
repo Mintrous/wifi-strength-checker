@@ -1,3 +1,2 @@
 # wifi-strength-checker
 
-teste
