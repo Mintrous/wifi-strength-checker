@@ -6,5 +6,3 @@
 3 - https://reactnative.dev/docs/intro-react-native-components    "Componentes do React Native" <br>
 4 - https://react-native-async-storage.github.io/async-storage/docs/usage/    "Async Storage" <br>
 5 - https://www.youtube.com/watch?v=PhhyBmAIehg   "Usando o Async Storage" <br> <br>
-<h2>Pitch</h2>
-https://www.youtube.com/watch?v=YHJC-rJ6pLI
